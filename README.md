@@ -142,7 +142,7 @@ MaRGen-MultiAgent-Restaurant-Analysis/
 
 ## 🎓 Course Context
 
-**Course:** DAMG 7374-02 - Data Engineering: Impact of Genera8ve AI with LLM’s 
+**Course:** DAMG 7374-02 - Data Engineering: Impact of Generative AI with LLM’s 
 **Institution:** Northeastern University  
 **Semester:** Fall 2025
 
