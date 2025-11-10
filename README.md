@@ -51,7 +51,7 @@ User Query (Business Problem)
 | Component | Tool |
 |-----------|------|
 | **UI** | Streamlit |
-| **LLM Agents** | Local LLMs via Ollama (llama3.1 / mistral / qwen) |
+| **LLM Agents** | Local LLMs via Ollama (llama3.1 / mistral / qwen) | Snowflake cortex (claude-3-5-sonnet)
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Python 3.11+ |
