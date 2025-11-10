@@ -11,7 +11,7 @@ This system demonstrates how **multiple specialized AI agents** work together li
 | Name | Role |
 |------|------|
 | **Vaibhavi Shinde** | Research, Presentation & Model Building|
-| **Deepak Reddy** | Demo Integration |
+| **Deepak Reddy** | Model Building + Demo Integration 
 | **Ganesh Paparaju** | Agent Pipeline + UI Development |
 
 ---
